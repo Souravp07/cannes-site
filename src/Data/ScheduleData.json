@@ -1,0 +1,58 @@
+[
+  {
+    "title": "1. Registration and Welcome Tea",
+    "time": "2:30 PM – 3:00 PM",
+    "duration": "30 minutes",
+    "details":
+      "The Film Festival will be a tribute to an internationally renowned film personality."
+  },
+  {
+    "title": "2. Inaugural Address / Opening Ceremony",
+    "time": "3:00 PM – 3:20 PM",
+    "duration": "20 minutes",
+    "details": "Delivered by director of the festival and the chief guest."
+  },
+  {
+    "title": "3. Keynote Speeches & Festival Overview",
+    "time": "3:20 PM – 4:10 PM",
+    "duration": "50 minutes",
+    "details":
+      "Featuring one international speaker and two speakers from our core committee. A brief introduction to the festival's theme and objectives"
+  },
+  {
+    "title": "4. Screening of Nominated Short Films",
+    "time": "4:10 PM – 6:30 PM",
+    "duration": "140 minutes",
+    "details": "A showcase of short films selected by our pre-screening jury."
+  },
+  {
+    "title": "5. Storytelling Session",
+    "time": "6:30 PM – 6:45 PM",
+    "duration": "15 minutes",
+    "details": "A creative and engaging storytelling session by a guest speaker."
+  },
+  {
+    "title": "6. Documentary Showcase",
+    "time": "6:45 PM – 7:00 PM",
+    "duration": "15 minutes",
+    "details": "A screening of 1 minute trailer of the documentary film."
+  },
+  {
+    "title": "7. Introduction of Jury Members",
+    "time": "7:00 PM – 7:10 PM",
+    "duration": "10 minutes",
+    "details": "Featuring one esteemed jury member and professional guest speaker from India."
+  },
+  {
+    "title": "8. Award Announcements",
+    "time": "7:10 PM – 7:20 PM",
+    "duration": "10 minutes",
+    "details": "Winners to be announced by the jury members."
+  },
+  {
+    "title": "9. Award Ceremony",
+    "time": "7:20 PM – 8:00 PM",
+    "duration": "40 minutes",
+    "details": "Presentation of awards to the winners, including a special award for the best film."
+  }
+]

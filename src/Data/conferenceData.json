@@ -1,0 +1,42 @@
+[
+  {
+    "title": "IEEE CCWC, International Conference",
+    "location": "University of Nevada, Las Vegas, USA",
+    "website": "https://example.com"
+  },
+  {
+    "title": "IEEE IEMCON, International Conference",
+    "location": "Berkeley, USA",
+    "website": "https://example.com"
+  },
+  {
+    "title": "IEEE UEMCON, International Conference",
+    "location": "New York, USA",
+    "website": "https://example.com"
+  },
+  {
+    "title": "IEMTRONICS, International Conference",
+    "location": "Imperial College London, UK",
+    "website": "https://example.com"
+  },
+  {
+    "title": "IEEE AIoT, International Conference",
+    "location": "Seattle Convention Center, USA",
+    "website": "https://example.com"
+  },
+  {
+    "title": "SMART POWER TALKS",
+    "location": "Elizabeth Avenue SE, Auburn, Washington",
+    "website": "https://example.com"
+  },
+  {
+    "title": "EIRTM, International Conference",
+    "location": "The Photovoltaic Institute of Île-de-France, France",
+    "website": "https://example.com"
+  },
+  {
+    "title": "Global Distinguished Leadership Award",
+    "location": "NIT, Calicut, India",
+    "website": "https://example.com"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "image": "/media/debasish.jpeg",
+    "name": "Debasish Sen Sharma",
+    "role": "Member",
+    "details":
+      "Debasish Sen Sharma (b. 1975) is a postgraduate in English and Film Studies from Jadavpur University. He has been working as an independent filmmaker and theatre practitioner for the last 30 years. He has directed two feature films, five documentaries, and produced multiple content pieces for television and web media. Academically, he teaches Film Studies in various universities worldwide."
+  },
+  {
+    "image": "/media/janardan.jpeg",
+    "name": "Dr Janardan Ghosh",
+    "role": "Member",
+    "details":
+      "Dr Janardan Ghosh is a storyteller (Katha Abhinaya), performing artist, academic, theatre director, film actor, playwright, and performance coach whose practice includes the use of traditional theories, contemporary performance vocabulary, and interactive media. His research-based work engages indigenous practice methods by exploring the perspectives of historicity, spiritual consciousness, intertextual dialogue, and body-space dynamics ofmyths, tales, and gossip. He completed his doctorate (Ph.D.) in Performance and Spirituality from the Ramakrishna Mission Vivekananda University, Belur. At present, he is exploring post-doc research on Tribal Story Performance based on Santhal Communities of Santhal Parganas."
+  },
+  {
+    "image": "/media/aniruddhha.png",
+    "name": "Aniruddha Das",
+    "role": "Member",
+    "details": "Aniruddha Das is a photographer and traveler whose documentary, Made in Paradise, recently won the Best Asian Film Award at the Quetzalcoatl Indigenous International Film Festival."
+  }
+]
