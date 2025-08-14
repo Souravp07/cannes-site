@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cannes-site/static/css/main.0e61abd0.css",
+    "main.js": "/cannes-site/static/js/main.3a9f3476.js",
+    "index.html": "/cannes-site/index.html",
+    "main.0e61abd0.css.map": "/cannes-site/static/css/main.0e61abd0.css.map",
+    "main.3a9f3476.js.map": "/cannes-site/static/js/main.3a9f3476.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e61abd0.css",
+    "static/js/main.3a9f3476.js"
+  ]
+}
